@@ -1,4 +1,5 @@
 {
-  "editor.fontSize": 14,
-  "livePreview.defaultPreviewPath": "/index.html"
+  "editor.fontSize": 16,
+  "livePreview.defaultPreviewPath": "/index.html",
+  "editor.fontFamily": "'0xProto', Menlo, Monaco, 'Courier New', monospace"
 }
